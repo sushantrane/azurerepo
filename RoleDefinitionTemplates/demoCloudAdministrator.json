@@ -1,12 +1,13 @@
 {
     "Name":  "Demo Cloud Administrator",
+    "Id":  null,
     "IsCustom":  true,
     "Description":  "Lets you view everything, but not make any changes.",
     "Actions":  [
                     "*"
                 ],
     "NotActions":  [
-                        "Microsoft.ClassicNetwork/*"
+
                    ],
     "AssignableScopes":  [
                     "/subscriptions/4d839f9c-3dea-4500-b6d3-49d655aa8942"
