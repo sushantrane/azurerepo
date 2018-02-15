@@ -1,0 +1,16 @@
+{
+    "Name":  "Test Tech Reader",
+    "Id":  null,
+    "IsCustom":  true,
+    "Description":  "Lets you view everything, but not make any changes.",
+    "Actions":  [
+                    "*/read"
+                ],
+    "NotActions":  [
+                    "Microsoft.Authorization/*/Delete", 
+                    "Microsoft.Authorization/*/Write"
+                   ],
+    "AssignableScopes":  [
+                            "/subscriptions/4d839f9c-3dea-4500-b6d3-49d655aa8942"
+                         ]
+}
