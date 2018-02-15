@@ -1,7 +1,5 @@
 {
     "Name":  "Demo Cloud Administrator",
-    "Id":  null,
-    "IsCustom":  true,
     "Description":  "Lets you view everything, but not make any changes.",
     "Actions":  [
                     "*"

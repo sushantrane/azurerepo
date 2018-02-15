@@ -1,7 +1,5 @@
 {
     "Name":  "Demo Tech Operations Support",
-    "Id":  null,
-    "IsCustom":  true,
     "Description":  "Lets you manage everything except access to resources.",
     "Actions":  [
                     "*"

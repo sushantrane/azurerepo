@@ -1,7 +1,5 @@
 {
     "Name":  "Demo Tech Billing Manager",
-    "Id":  null,
-    "IsCustom":  false,
     "Description":  "Allows read access to billing data",
     "Actions":  [
                     "Microsoft.Authorization/*/read",
